@@ -9,7 +9,7 @@ var searchData=
   ['canvas_6',['canvas',['../class_neuro_rehab_1_1_u_i_1_1_canvas_helper.html#a70d0e39f7194f8ec9b4f85d9db37c042',1,'NeuroRehab::UI::CanvasHelper']]],
   ['canvasgroup_7',['canvasGroup',['../class_neuro_rehab_1_1_u_i_1_1_loading_element.html#a97ca243ec189353a6d8e0ed0f3719937',1,'NeuroRehab::UI::LoadingElement']]],
   ['charactercontroller_8',['characterController',['../class_neuro_rehab_1_1_managers_1_1_character_1_1_character_manager.html#aded9c50936e78c07a37166641a2a35d3',1,'NeuroRehab::Managers::Character::CharacterManager']]],
-  ['charactermanager_9',['characterManager',['../class_fix_arm_action.html#add56fba88ba94145b8e32f4482871350',1,'FixArmAction']]],
+  ['charactermanager_9',['characterManager',['../class_neuro_rehab_1_1_character_1_1_patient_1_1_fix_arm_action.html#ae4605d3d8daeda6df1c45c402e2a9e8c',1,'NeuroRehab::Character::Patient::FixArmAction']]],
   ['characterrole_10',['characterRole',['../class_neuro_rehab_1_1_core_1_1_role_settings_serialized.html#abdab62b0e4b1de3b8af7c29ba38ea335',1,'NeuroRehab::Core::RoleSettingsSerialized']]],
   ['charmanager_11',['charManager',['../class_neuro_rehab_1_1_animation_1_1_arm_animation_controller.html#a7f14c4b9e6430d61a210ff8eedcce9d5',1,'NeuroRehab::Animation::ArmAnimationController']]],
   ['checkmark_12',['checkmark',['../class_neuro_rehab_1_1_u_i_1_1_custom_toggle.html#a259a575b74febb34d8076e559d94db29',1,'NeuroRehab::UI::CustomToggle']]],

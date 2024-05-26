@@ -60,7 +60,7 @@ var searchData=
   ['changewalkingspeed_57',['ChangeWalkingSpeed',['../class_neuro_rehab_1_1_avatar_1_1_network_avatar_walking_controller.html#aa6ef90f9327d5443c6d753cc2b2a590b',1,'NeuroRehab::Avatar::NetworkAvatarWalkingController']]],
   ['charactercontroller_58',['characterController',['../class_neuro_rehab_1_1_managers_1_1_character_1_1_character_manager.html#aded9c50936e78c07a37166641a2a35d3',1,'NeuroRehab::Managers::Character::CharacterManager']]],
   ['charactermanager_59',['CharacterManager',['../class_neuro_rehab_1_1_managers_1_1_character_1_1_character_manager.html',1,'NeuroRehab::Managers::Character']]],
-  ['charactermanager_60',['characterManager',['../class_fix_arm_action.html#add56fba88ba94145b8e32f4482871350',1,'FixArmAction']]],
+  ['charactermanager_60',['characterManager',['../class_neuro_rehab_1_1_character_1_1_patient_1_1_fix_arm_action.html#ae4605d3d8daeda6df1c45c402e2a9e8c',1,'NeuroRehab::Character::Patient::FixArmAction']]],
   ['charactermanager_2ecs_61',['CharacterManager.cs',['../_character_manager_8cs.html',1,'']]],
   ['charactermessage_62',['CharacterMessage',['../struct_neuro_rehab_1_1_core_1_1_character_message.html',1,'NeuroRehab::Core']]],
   ['characterrole_63',['CharacterRole',['../class_neuro_rehab_1_1_script_objects_1_1_role_settings.html#a936a0de2af197015526477b3b1deadba',1,'NeuroRehab.ScriptObjects.RoleSettings.CharacterRole'],['../class_neuro_rehab_1_1_core_1_1_role_settings_serialized.html#a09f4ce6c950af699f27a52bb72bca5a7',1,'NeuroRehab.Core.RoleSettingsSerialized.CharacterRole']]],
